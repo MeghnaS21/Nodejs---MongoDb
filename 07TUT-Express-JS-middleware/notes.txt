@@ -1,0 +1,23 @@
+Express has the ability, to identify different expressions
+in routing in different ways:-
+
+1) Only slash(/) for home page
+Ans) start with slash and ending with slash ==>  ^/$
+
+2) then ==> |
+
+3) directory with extention as an option index.html
+Ans) /index(.html)?
+
+4)Handle redirect
+
+5)Routing handlers --> callback/anonymous functions
+
+6)next()--> help us to move to next function handler/callback/anonymous
+
+Increases, user experiences
+
+MIDDLE WARE -> anything between request and response
+
+->3 types
+builtin, custom, from third party

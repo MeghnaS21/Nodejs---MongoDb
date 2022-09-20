@@ -1,0 +1,3 @@
+20220831	11:02:13	73bbf0da-c6cf-487f-99d8-83851ca026cf	GET	undefined	/new-page
+20220831	11:02:13	270092ee-88fc-4587-ac0a-c2f7c01d2494	GET	undefined	/css/style.css
+20220831	11:02:13	7fa2a07b-ff7f-4731-be66-74a675a374c5	GET	undefined	/img/img1.jpg

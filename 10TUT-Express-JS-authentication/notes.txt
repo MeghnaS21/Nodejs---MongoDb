@@ -1,0 +1,11 @@
+Agenda->
+    user authorisation to our express API
+
+
+simulating our users database table into our model directory with
+users.json file
+
+USER authorisation REQUIRES 2 ROUTES
+
+1- REGISTRATION
+2- 

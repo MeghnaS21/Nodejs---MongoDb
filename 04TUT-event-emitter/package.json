@@ -1,0 +1,19 @@
+{
+  "name": "04tut-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.2",
+    "uuid": "^8.3.2"
+  }
+}

@@ -1,0 +1,12 @@
+20220831	11:02:13	73bbf0da-c6cf-487f-99d8-83851ca026cf	GET	undefined	/new-page
+20220831	11:02:13	270092ee-88fc-4587-ac0a-c2f7c01d2494	GET	undefined	/css/style.css
+20220831	11:02:13	7fa2a07b-ff7f-4731-be66-74a675a374c5	GET	undefined	/img/img1.jpg
+20220831	11:11:36	42662551-4caa-4851-955c-31cc86ad261c	GET	undefined	/new-page
+20220831	11:11:36	38baa5e3-0f83-40cc-8dab-c4eef76500d7	GET	undefined	/css/style.css
+20220831	11:11:36	9d15d565-6d20-41a1-9ce5-9a57225ff723	GET	undefined	/img/img1.jpg
+20220831	11:46:57	02ab39f9-2c99-47e0-a9ca-a4ef09200350	GET	undefined	/employees/1
+20220831	11:47:17	6464f8bb-1754-4612-af6c-24764d4e1875	GET	undefined	/employees
+20220831	11:47:32	882baac9-abfe-40dc-bcae-0f07dfc7b9ab	POST	undefined	/employees
+20220831	11:48:05	75d25cd1-bb9a-4dc5-9e9e-0a4ea8429910	PUT	undefined	/employees
+20220831	11:48:34	06362942-9a34-4423-84fd-1889e5d6fe5f	DELETE	undefined	/employees
+20220831	11:48:56	0bb8f6e4-7add-4711-b7a4-61597d9cb53d	GET	undefined	/employees/1
